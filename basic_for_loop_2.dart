@@ -27,9 +27,7 @@
 
 // 4
 // void main(){
-//   // var x = 2;
 //   for(int i=100; i<=120; i++){
-//     // i=i*i;
 //     print(i*i);
 //   }
 // }
